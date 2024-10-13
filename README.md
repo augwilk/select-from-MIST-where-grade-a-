@@ -9,6 +9,8 @@ select * from MIST4610 where grade = A;
 2. Emma Calleja [@EmmaCalleja](https://github.com/EmmaCalleja)
 3. Hannah Conley [@Hmc98563](https://github.com/Hmc98563)
 4. Rahil Patel [@rahilp0215](https://github.com/rahilp0215)
+
+
 ## Problem Description:
 
 The task at hand:
@@ -122,10 +124,10 @@ Query 9 retrieves information about sports teams and their head coaches, specifi
 
 This query is valuable for managers as it allows them to assess team performance in relation to coach compensation. By comparing the number of wins and losses with the coach's salary, managers can evaluate the return on investment for each coach. This insight can guide decisions on salary adjustments or the recruitment of new coaching talent. Additionally, ordering the results by salary allows for easy identification of the highest-paid coaches, enabling more informed budget allocation and salary negotiations.
 
+
 Query 10 identifies top-performing players on successful teams by calculating average rushing yards which would help managers make decisions on player utilization, strategy, and compensation.
 
 <img width="545" alt="Screenshot 2024-10-13 at 7 33 20 PM" src="https://github.com/user-attachments/assets/0c49400c-a80e-42f6-8b80-ce0aa133843d">
-
 
 This query also filters for players who have participated in at least three games, highlighting consistent contributors that would be eligible. The insights can guide decisions on resource allocation, such as playing time and training. It also supports strategic planning by leveraging players' strengths and optimizing game strategies. Additionally, the data aids in performance-based compensation and player development decisions. The data can also be useful for the committee to decide what players are eligible for college awards based on their performance.
 
