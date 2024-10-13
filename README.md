@@ -77,8 +77,11 @@ Query 1 allows managers to see which signed players are perfroming the best. A c
 
 Query 2 allows managers to look at statistics for performance benchmarking and rankings within the SEC. This can also be used as a head coach evaluation to see which head coach and their team is exceeding above average with this conference. An athletic director, fro example, who is in charge of hiring and firing coaches may want to review this data to see how their coach is performing relative to other coaches in the conference. This query might help an anthletic department make informed descions on their coach's salary, job security, or future contracts.
 
-3. Query 3
+3. Query 3 shows the players with the most amount of NIL evaluation in the Power 5 conferences
 
+<img width="913" alt="Q2" src="https://github.com/user-attachments/assets/c9d99341-88e6-4a52-8b8b-89bbf6bf6876">
+
+Query 3 allows both Sponsors and the team to look at how much a college player is worth via NIL. This can be used to evaluate how much money should be given to a player in order for them to transfer or stay on the current roster. Sponsors can gauge how much money to give a player, which is an important factor when it comes to recruiting. A Head coach, in example, can see how much money a player is evaluated if they are the one they are recruiting, and tell the sponsors how much money to give them, depending on the numebr given. 
 
   
 4. Query 4 retrieves all players and the team they joined, along with the date they joined, ordered by descending dates.
