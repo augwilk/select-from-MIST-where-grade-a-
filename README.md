@@ -116,6 +116,12 @@ Query 8 shows the poorest preforming mascots.
 
 Query 8 is useful to managers as part of a marketing strategy. Consistently underperforming teams can use this information to consider rebranding, which may help revitalize fan engagement and, in turn, create new sponsorship opportunities.
 
+Query 9 retrieves information about sports teams and their head coaches, specifically listing the team's name, number of wins and losses, head coach's name, and their salary. The data is sourced from two tables: team and coach. The tables are joined based on a common identifier to combine related information. The results are ordered by the coach's salary in descending order, meaning the highest-paid coaches will appear first.
+
+<img width="467" alt="952x980 png 672cf1addad246bf91b6ee318d118c80" src="https://github.com/user-attachments/assets/e79bb1bf-9968-461e-a5aa-5db0aeded2d3">
+
+This query is valuable for managers as it allows them to assess team performance in relation to coach compensation. By comparing the number of wins and losses with the coach's salary, managers can evaluate the return on investment for each coach. This insight can guide decisions on salary adjustments or the recruitment of new coaching talent. Additionally, ordering the results by salary allows for easy identification of the highest-paid coaches, enabling more informed budget allocation and salary negotiations.
+
 
 ## Database information:
 
