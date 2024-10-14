@@ -9,6 +9,7 @@ select * from MIST4610 where grade = A;
 2. Emma Calleja [@EmmaCalleja](https://github.com/EmmaCalleja)
 3. Hannah Conley [@Hmc98563](https://github.com/Hmc98563)
 4. Rahil Patel [@rahilp0215](https://github.com/rahilp0215)
+5. Marc Ordonio [@marcord245](https://github.com/marcord245) 
 
 
 ## Problem Description:
