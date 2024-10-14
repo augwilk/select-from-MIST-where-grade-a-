@@ -98,9 +98,11 @@ With query 4, managers will find this data useful for several reasons, particula
 
 Query 5 highlights all of the players that have the most combined recieving and rushing yards in all of the conferences
 
-<img width="852" alt="QUERYMIST" src="https://github.com/user-attachments/assets/72977d06-2705-4a57-861c-acdef179d797">
+<img width="842" alt="QUERYMIST" src="https://github.com/user-attachments/assets/444e8a4e-0529-4881-a7b7-e4b2f45ba1af">
+<img width="388" alt="Screenshot 2024-10-13 at 8 38 48 PM" src="https://github.com/user-attachments/assets/c5db8c73-74d0-4ded-ad9f-50fc69c60ee6">
 
-Query 5 allows managers to look at the statistics for the performance of the offensive players, moving the spotlight away from the QB postion. It can be also used by Head coaches to see who are the best playmakers are in the offence in comparision to other players, which can be valubale in developing different schemes against different teams. For example, it can tell a head coach what player is exceeding compared to other offensive players that aren't neccesarily the QB, and make informed and thorough decision on who the ball should be given to mainly, impacting the performance of the whole offense. 
+
+Query 5 allows managers to look at the statistics for the performance of the offensive players, moving the spotlight away from the QB position. It can be also used by Head coaches to see who are the best playmakers are in the offence in comparision to other players, which can be valubale in developing different schemes against different teams. For example, it can tell a head coach what player is exceeding compared to other offensive players that aren't neccesarily the QB, and make informed and thorough decisions on who the ball should be given to mainly, impacting the performance of the whole offense. 
 
 Query 6 highlights conferences with cumulative win/loss ratios higher than average. 
 
