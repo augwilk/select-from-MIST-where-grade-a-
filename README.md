@@ -62,7 +62,9 @@ Our data model stores a range of data regarding college football which could be 
 ![Screenshot (87)](https://github.com/user-attachments/assets/a125aa6f-7d8e-4784-a3d1-74155a016e1a)
 
 
+## Query Type Matrix:
 
+![Screen Shot 2024-10-13 at 8 29 41 PM](https://github.com/user-attachments/assets/cf262f29-f47f-43a4-8608-b380128479d1)
 
 
 
