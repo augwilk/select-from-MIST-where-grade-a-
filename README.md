@@ -77,15 +77,17 @@ Our data model stores a range of data regarding college football which could be 
 
 Query 1 allows managers to see which signed players are perfroming the best. A company like Nike would want to sign with the highest producing atheletes to help build their brand as an elite sporting wear producer. The company may need to consider cutting deals with certain athletes that are nto perfroming well or look into extending contracts with high performing players. This query also reveals areas Nike could continue to grow. For example, Only one player signed with Nike has a significant numebr of rushing yards. This may entice Nike to look into other running backs to sponsor to continue to grow and promote their brand in teh college football landscape. This query could help Sponsors make informed decsions and assess how their contracted players are performing.
 
-2. Query 2 shows which head coach and their team exceeded the average number of wins in the SEC.
+2. Query 2 (UPDATED)shows players with most stats and their NIL sponsor amount
+
 
 ![3](https://github.com/user-attachments/assets/07b962b5-4bf0-4433-8f26-094ad190250b)
 
-Query 2 allows managers to look at statistics for performance benchmarking and rankings within the SEC. This can also be used as a head coach evaluation to see which head coach and their team is exceeding above average with this conference. An athletic director, fro example, who is in charge of hiring and firing coaches may want to review this data to see how their coach is performing relative to other coaches in the conference. This query might help an anthletic department make informed descions on their coach's salary, job security, or future contracts.
+Query 2 
 
 3. Query 3 shows the stats of players with over 500 passing yards who are not signed to an NIL deal
 
-![Screenshot (89)](https://github.com/user-attachments/assets/66c55119-b0ba-475f-8c11-3ff2a9aef43a)
+![Screenshot (89)](https://github.com/user-attachments/assets/5b7b739a-7c56-41e0-a906-6949fd1dcaa1)
+
 
 Query 3 allows both Sponsors and players to see which players may be highly productive on teh field but don't yet have an NIL deal in place. This informs potential sponsors about the best candidates fro future deals. A company woudl want to find teh best atheletes to promote their brand and being able to pick out players taht don't yet have a contract signed will help raise the lieklyhood that they are able to close a deal.
 
