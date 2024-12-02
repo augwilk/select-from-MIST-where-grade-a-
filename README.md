@@ -80,13 +80,14 @@ Query 1 allows managers to see which signed players are perfroming the best. A c
 2. Query 2 (UPDATED)shows players with most stats and their NIL sponsor amount
 
 
-![3](https://github.com/user-attachments/assets/07b962b5-4bf0-4433-8f26-094ad190250b)
+![Players with most stats and their NIL sponsor amount](https://github.com/user-attachments/assets/6efc348a-4cc8-4217-a1ea-cf6148296a6b)
+
 
 Query 2 
 
 3. Query 3 shows the stats of players with over 500 passing yards who are not signed to an NIL deal
 
-![Screenshot (89)]![Players with most stats and their NIL sponsor amount](https://github.com/user-attachments/assets/42cb94ce-9e76-40ee-adee-038bcc863f71)
+
 
 
 
