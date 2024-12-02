@@ -86,7 +86,8 @@ Query 2
 
 3. Query 3 shows the stats of players with over 500 passing yards who are not signed to an NIL deal
 
-![Screenshot (89)](https://github.com/user-attachments/assets/5b7b739a-7c56-41e0-a906-6949fd1dcaa1)
+![Screenshot (89)]![Players with most stats and their NIL sponsor amount](https://github.com/user-attachments/assets/42cb94ce-9e76-40ee-adee-038bcc863f71)
+
 
 
 Query 3 allows both Sponsors and players to see which players may be highly productive on teh field but don't yet have an NIL deal in place. This informs potential sponsors about the best candidates fro future deals. A company woudl want to find teh best atheletes to promote their brand and being able to pick out players taht don't yet have a contract signed will help raise the lieklyhood that they are able to close a deal.
